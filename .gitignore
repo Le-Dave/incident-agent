@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets (API keys, passwords)
+.env
+
+# Editor / OS
+.vscode/
+Thumbs.db
